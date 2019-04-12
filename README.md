@@ -1,2 +1,4 @@
 # Hello-World
-一些demo
+Python3.x
+print("Hello,World!")
+print("My name is chuan bi ge")
